@@ -1,1 +1,3 @@
-console.log('Hello World')
+const primeiraMensagem = "Hello World";
+
+console.log(primeiraMensagem);
